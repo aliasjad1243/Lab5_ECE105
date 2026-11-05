@@ -119,7 +119,6 @@ values is [1, 2, 4, 5, 8, 9, 12]
 pmf    is [0.2, 0.1, 0.1, 0.3, 0.1, 0.1, 0.1]
 cdf    is [0.2, 0.3, 0.4, 0.7, 0.8, 0.9, 1.0]
 """
-# The values in data, and their PMF and CDF
 def pmf_cdf(data):
     # 1. counts
     counts = Counter(data)
