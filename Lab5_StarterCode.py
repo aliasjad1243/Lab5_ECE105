@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 """
 Ali Asjad Syed
 aas459
+14706820
 
 ASSIGNMENT: COMPLETE length, peak, champion, and pmf_cdf below
 """
